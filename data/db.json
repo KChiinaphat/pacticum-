@@ -9,21 +9,36 @@
       "email": "Chinnaphat.kh@ku.th",
       "school": "สมุทตรสาครบูรณะ",
       "image": "images/30830.jpg"
+    },
+    {
+      "id": "3996",
+      "name": "สมชาย ใจดี",
+      "studentId": "6530250034",
+      "major": "วิทยาการคอมพิวเตอร์",
+      "year": "3",
+      "email": "chinnaphat@gmail.com",
+      "school": "สมุทรสาครบูรณะ",
+      "image": "images/30831.jpg"
     }
   ],
   "courses": [
     {
-      "CourseId": "01418214",
+      "id": "01418214",
       "name": "Pacticum",
-      "creadit": "3",
-      "grade": "A+"
+      "credit": 1,
+      "grade": "A"
     },
     {
-      "id": "9d7e",
-      "CourseId": "01418441",
+      "id": "01418441",
       "name": "Web technology ",
       "credit": 3,
       "grade": "A"
+    },
+    {
+      "id": "01418321",
+      "name": "System Analysis and Design",
+      "credit": 3,
+      "grade": "C+"
     }
   ]
 }
