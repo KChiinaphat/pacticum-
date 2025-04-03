@@ -1,0 +1,29 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "studentId": "6530250034",
+      "name": "จิณณพัต ขาวพุ่ม",
+      "major": "วิทยาการคอมพิวเตอร์",
+      "year": "3",
+      "email": "Chinnaphat.kh@ku.th",
+      "school": "สมุทตรสาครบูรณะ",
+      "image": "images/30830.jpg"
+    }
+  ],
+  "courses": [
+    {
+      "CourseId": "01418214",
+      "name": "Pacticum",
+      "creadit": "3",
+      "grade": "A+"
+    },
+    {
+      "id": "9d7e",
+      "CourseId": "01418441",
+      "name": "Web technology ",
+      "credit": 3,
+      "grade": "A"
+    }
+  ]
+}
